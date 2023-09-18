@@ -1,10 +1,10 @@
 # Repositorio de Diplomas Académicos
 
-En este repositorio encontrarás una colección de todos los diplomas académicos que he obtenido hasta la fecha, desde programas de certificación, pasando por diplomados y cursos especializados hasta galardones educativos. El objetivo de este repositorio es tener un único lugar donde guardar y compartir mis logros educativos.
+En este repositorio encontrarás una colección de todos los diplomas académicos que he obtenido hasta la fecha, desde programas de certificación, pasando por diplomados y cursos especializados . El objetivo de este repositorio es tener un único lugar donde guardar y compartir mis logros educativos.
 
 ## ¿Qué encontrarás aquí?
 
-Todos los diplomas académicos están organizados en carpetas por tipos. Cada una de estas carpetas lleva el nombre del tipo respectivo: 
+Todos los diplomas académicos, están organizados en carpetas por tipos. Cada una de estas carpetas lleva el nombre del tipo respectivo: 
 
 Cursos Programacion/
 Cursos Refrigeracion/
